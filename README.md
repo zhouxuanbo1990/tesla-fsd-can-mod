@@ -1,8 +1,14 @@
 # CanFeather – Tesla FSD CAN Bus Enabler
 
 ***
-Credits for the original repo go to https://gitlab.com/Starmixcraft/tesla-fsd-can-mod
+This is a mirror. Credits for the original repo go to https://gitlab.com/Starmixcraft/tesla-fsd-can-mod
 ***
+⚠️ WARNING: Modifying CAN bus messages can affect safety-critical vehicle systems. Tesla may remotely detect and disable modifications. This may void your warranty and may be illegal in your jurisdiction. Use entirely at your own risk. Original repo and it's successor (Tesla open CAN mod) are taken down according to https://fsdcanmod.com
+***
+⚠️ UPDATE: This CAN mod is reported not to be working anymore 2026.8.6 and 2026.2.9.x (and upwards), and probably even 2026.8.3.
+***
+
+
 
 > **Why is this public?** Some sellers — such as Michal Gapinski — charge up to 500 € for a solution like this. In our opinion, that is massively overpriced. The board costs around 20 €, and even with labor factored in, a fair price is no more than 50 €. This project exists so nobody has to overpay.
 
