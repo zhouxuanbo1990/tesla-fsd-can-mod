@@ -5,7 +5,7 @@ This is a mirror. Credits for the original repo go to https://gitlab.com/Starmix
 ***
 ⚠️ WARNING: Modifying CAN bus messages can affect safety-critical vehicle systems. Tesla may remotely detect and disable modifications. This may void your warranty and may be illegal in your jurisdiction. Use entirely at your own risk. Original repo and it's successor (Tesla open CAN mod) are taken down according to https://fsdcanmod.com
 ***
-⚠️ UPDATE: This CAN mod is reported not to be working anymore 2026.8.6 and 2026.2.9.x (and upwards), and probably even 2026.8.3.
+⚠️ UPDATE: This CAN mod is reported not to be working anymore on Tesla software version 2026.8.6 and 2026.2.9.x (and up), and probably even 2026.8.3.
 ***
 
 
